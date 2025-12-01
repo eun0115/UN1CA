@@ -26,3 +26,6 @@ unica/mods/prophide/system/bin/rezetprop binary
 target/a52sxq/patches/wpss/vendor/firmware/** binary
 target/a73xq/patches/wpss/vendor/firmware/** binary
 target/m52xq/patches/wpss/vendor/firmware/** binary
+
+# Platform-specific prebuilt blobs
+platform/exynos2100/patches/camera/system/lib64/** binary
